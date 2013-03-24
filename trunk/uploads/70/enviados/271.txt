@@ -1,0 +1,31 @@
+
+Hola chicos,
+
+He revisado el trabajo y la primera vez me envió el siguiente mensaje:
+
+ERROR: invalid byte sequence for encoding \"UNICODE\": 0xe17320
+
+ERROR -1: No se pudo ejecutar la consulta en la base de datos.
+Descripción:
+ERROR: invalid byte sequence for encoding \"UNICODE\": 0xe17320
+Página generada en 15.8276 segundos.
+Se utilizaron 2 consulta/s SQL.
+
+Luego he repetido la operacion y funcionó satisfactoriamente.
+Les ruego que verifiquen si el archivo se lee correctamente.
+Uno de los TF podria ser el sistema de e-mail (agregándole algunas funcionalidades).
+
+Está muy bien el trabajo.
+
+FELICITACIONES!!!!
+
+YA LO QUE HAN GENERADO (SALVANDO QUE FALTA EL INFORME) ES UN TRABAJO FINAL DE LICENCIATURA PERFECTAMENTE. HAY QUE ESTUDIAR EN SEPARARLO EN 2 o 3, POR EJEMPLO: E-MAIL, FIRMA DIGITAL, DESARROLLO WEB.
+HACIENDO TODA LA DOCUMENTACION CORRESPONDIENTE EN UML, U OTRO FORMALISMO (O SEMI-FORMALISMO) SON TRABAJOS FINALES DE PRIMERISIMA LINEA.
+
+RECIBAN UN CORDIAL SALUDO.
+GERMAN
+
+
+Hola esta es la primer prueba del sistema de mensajes con firmas digitales
+
+Te adjunto el informe para que lo veas

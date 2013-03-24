@@ -1,0 +1,12 @@
+stm_bm(["yfatchr",430,"","blank.gif",0,"","",0,0,10,0,200,1,0,0,"","",0],this);
+stm_bp("p0",[1,4,0,0,1,4,0,0,100,"",-2,"",-2,90,0,0,"#B6D0EA","#6699CC","pane.gif",3,1,1,"#666666"]);
+stm_ai("p0i0",[0,"Información","","",-1,-1,0,"","_self","","","","",0,0,0,"","",0,0,0,1,1,"#6699CC",0,"#71A9FF",0,"pane.gif","",3,3,0,0,"#0099CC","#000000","#FFFFFF","#000000","9pt Arial","9pt Arial",0,0]);
+stm_aix("p0i1","p0i0",[0,"Nuevo Cliente","","",-1,-1,0,"modulos/clientes/clientes.php","principal","","","","",0,0,0,"","",0,0,0,1,1,"#6699CC",0,"#71A9FF",0,"pane.gif","",3,3,0,0,"#999900","#003399"]);
+stm_aix("p0i2","p0i0",[0,"Listado de Clientes","","",-1,-1,0,"modulos/clientes/listado_clientes.php","principal"]);
+stm_aix("p0i3","p0i0",[0,"Nuevo Mensajes","","",-1,-1,0,"modulos/mensajes/mensajes.php","principal","","","","",0,0,0,"","",0,0,0,1,1,"#6699CC",0,"#71A9FF",0,"pane.gif","",3,3,0,0,"#489EC9"]);
+stm_aix("p0i4","p0i2",[0,"Listado De Mensajes","","",-1,-1,0,"modulos/mensajes/listado_mensajes.php"]);
+stm_aix("p0i5","p0i0",[0,"Sobre"]);
+stm_aix("p0i6","p0i3",[0,"Login","","",-1,-1,0,"modulos/informacion/login.php"]);
+stm_aix("p0i7","p0i0",[0,"Salir"]);
+stm_ep();
+stm_em();
